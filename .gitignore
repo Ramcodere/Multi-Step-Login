@@ -11,6 +11,12 @@
 # production
 /build
 
+# IDE and Editor directories
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
 # misc
 .DS_Store
 .env.local
