@@ -19,20 +19,4 @@ Ensure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.com/)
 2. Clone your forked repository to your local machine:
    ```bash
    git clone https://github.com/your-username/repository-name.git
-
-
-src/
-├── components/          # Reusable React components
-│   ├── Header.js
-│   ├── Footer.js
-│   ├── Step1.js
-│   ├── Step2.js
-│   ├── Step3.js
-├── App.js                # Main application component
-├── index.js              # Entry point for React application
-├── App.css               # Global styles
-├── setupTests.js         # Setup for testing
-└── __tests__/            # Test files
-    ├── Step1.test.js
-    ├── Step2.test.js
-    ├── Step3.test.js
+  
